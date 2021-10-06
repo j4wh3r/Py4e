@@ -1,0 +1,39 @@
+Exercise 1: What is the function of the secondary memory in a computer?
+    c)Store information for the long term, even beyond a power cycle
+
+Exercise 2: What is a program?
+    A specific set of ordered operations for a computer to perform.
+
+Exercise 3: What is the difference between a compiler and an interpreter?
+    -A compiler: translate a program written in a high-level language into a low-level
+                language all at once, in preparation for later execution.
+    -An interpreter: To execute a program in a high-level language by translating it one line
+                    at a time
+
+Exercise 4: Which of the following contains “machine code”?
+    a) The Python interpreter
+
+Exercice 5:
+    >>> primt 'Hello world!' it should be >>> print 'Hello world!'
+
+Exercise 6: Where in the computer is a variable such as “x” stored after
+the following Python line finishes?
+x = 123
+    b) Main Memory
+
+Exercise 7: What will the following program print out:
+x = 43
+x = x + 1
+print(x)
+    b) 44
+
+Exercise 8: Explain each of the following using an example of a human capability: (1) Central processing unit, (2) Main Memory, (3)
+Secondary Memory, (4) Input Device, and (5) Output Device. For example, “What is the human equivalent to a Central Processing Unit”?
+    (1) Central processing unit: is like the humans brain
+    (2) Main Memory: a memory that cannot store informations permanetly
+    (3) Secondary Memory: compared to the fourth layer of our brain , its like a hard drive that sotres informations permanetly
+    (4) Input Device: keyboard,mouse...in humans are ears,nose,eyes...
+    (5) Output Device: monitors,speakers... the human output device is the statement or answers that arise over what we feel, see...
+
+Exercise 9: How do you fix a “Syntax Error”?
+    we can fix Syntax error after executing the program , because it shows us where the errors are
